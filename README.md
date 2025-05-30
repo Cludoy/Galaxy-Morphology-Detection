@@ -71,7 +71,7 @@ An ensemble classifier was built using the best three models (EfficientNetB0, B3
 - **Recall**: 55.28%
 - **F1-Score**: 53.20%
 
-## 🔥 Challenges Faced
+##  Challenges Faced
 
 - **Hardware limitations**: Limited RAM and GPU time on Google Colab and Kaggle.
 - **Class imbalance**: Mitigated using class weights.
